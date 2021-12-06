@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pwa/precache-manifest.8f561efacfcded981a058abcecee6d52.js"
+  "/vueSNS/precache-manifest.af3945c1337a68c8970dccecd6229127.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sns"});
